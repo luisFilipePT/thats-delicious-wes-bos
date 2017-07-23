@@ -1,4 +1,6 @@
-# Learn node course by Wes Bos
+# Learn Node course by Wes Bos
+
+[![Course](https://learnnode.com/images/node/node-master-package.jpg)](https://learnnode.com/)
 
 ## Acknowledgement
 
@@ -8,7 +10,7 @@ You can get more info and buy the course on the link above.
 
 You can see the application running live [here](https://demo.learnnode.com/)
 
-So all credits to [Wes Bos](http://wesbos.com/), great job man.
+All credits to [Wes Bos](http://wesbos.com/), great job man.
 
 ## What is this?
 
