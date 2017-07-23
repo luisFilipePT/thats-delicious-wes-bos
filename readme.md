@@ -1,3 +1,15 @@
+# Learn node course by Wes Bos
+
+## Acknowledgement
+
+This is my final implementation of the great course - [Learn Node](https://learnnode.com/) by Wes Bos.
+
+You can get more info and buy the course on the link above.
+
+You can see the application running live [here](https://demo.learnnode.com/)
+
+So all credits to [Wes Bos](http://wesbos.com/), great job man.
+
 ## What is this?
 
 Just you wait folks!
