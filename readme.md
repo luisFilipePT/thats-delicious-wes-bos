@@ -1,4 +1,5 @@
-# Learn Node course by Wes Bos
+# Learn Node course by Wes Bos.  
+#### My implementation 😉
 
 [![Course](https://learnnode.com/images/node/node-master-package.jpg)](https://learnnode.com/)
 
